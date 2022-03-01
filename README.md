@@ -1,0 +1,2 @@
+# AtmOrnegi
+BankaAtmOrnegi
